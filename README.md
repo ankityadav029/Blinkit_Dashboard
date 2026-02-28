@@ -33,4 +33,4 @@ Data Cleaning & Analysis
 
 To transform raw sales data into meaningful insights using interactive visualizations and help in better business decision-making.
 
-pic C:\Users\Ankit Yadav\Pictures\Screenshots
+pic (https://github.com/ankityadav029/Blinkit_Dashboard/blob/main/snapshot%20of%20blinkit%20dashboard.png)
