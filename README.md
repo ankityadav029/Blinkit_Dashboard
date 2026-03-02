@@ -1,36 +1,77 @@
-# Blinkit_Dashboard
 🛒 Blinkit Sales Analysis Dashboard
 
-This project presents an interactive Power BI dashboard built to analyze Blinkit's sales performance and business insights. The dashboard visualizes key metrics such as total sales, average sales, item categories, outlet performance, customer ratings, and more.
+This project showcases an interactive Blinkit Sales Analysis Dashboard built in Power BI.
+The dashboard analyzes sales performance, product categories, outlet types, and customer ratings to uncover meaningful business insights.
 
-It helps understand how different outlet sizes, locations, and product types impact overall sales and customer engagement.
+---
 
-📊 Key Insights
+🎯 Project Objective
 
-Total Sales Overview
+To analyze retail sales data and understand factors affecting product performance and outlet efficiency.
 
-Average Sales & Customer Ratings
+Key focus areas:
 
-Outlet Establishment Trends
+- Total sales and average sales performance
+- Product category contribution
+- Outlet establishment trends
+- Outlet size and location impact
+- Customer ratings and item visibility
 
-Sales by Outlet Size and Location
+---
 
-Item Category Performance
+🧹 Data Preparation
 
-Fat Content Analysis
+The dataset was cleaned and structured before building the dashboard:
 
-Outlet Type Comparison
+- Removed duplicate records
+- Handled missing values
+- Standardized category and outlet data
+- Organized fields for efficient analysis in Power BI
+
+---
+
+📈 Key Dashboard Features
+
+KPI Metrics
+
+- Total Sales
+- Average Sales
+- Average Rating
+- Number of Items Sold
+
+Sales Insights
+
+- Fat Content distribution
+- Product category performance
+- Item sales comparison
+
+Outlet Analysis
+
+- Outlet establishment trend over years
+- Sales by outlet size
+- Sales by outlet location tier
+- Outlet type comparison
+
+Detailed Metrics
+
+- Total sales by outlet type
+- Item count and visibility
+- Average rating by outlet
+
+---
 
 🛠 Tools Used
 
-Power BI
+- Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualization
 
-Data Visualization
+---
 
-Data Cleaning & Analysis
+💡 Key Insights
 
-🎯 Objective
-
-To transform raw sales data into meaningful insights using interactive visualizations and help in better business decision-making.
-
-pic (https://github.com/ankityadav029/Blinkit_Dashboard/blob/main/snapshot%20of%20blinkit%20dashboard.png)
+- Medium sized outlets contribute the highest sales share
+- Snack foods and fruits generate strong sales
+- Tier 3 locations show strong performance
+- Supermarket Type outlets dominate overall revenue
