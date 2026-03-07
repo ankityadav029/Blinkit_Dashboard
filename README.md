@@ -8,7 +8,8 @@ The dashboard analyzes sales performance, product categories, outlet types, and 
 🎯 Project Objective
 
 To analyze retail sales data and understand factors affecting product performance and outlet efficiency.
-https://github.com/ankityadav029/Blinkit_Dashboard/blob/77217ed1e5d5a99e0fe3ffa943e8198b2518abcf/snapshot%20of%20blinkit%20dashboard.png
+project dashboard - <img width="1285" height="717" alt="snapshot of blinkit dashboard" src="https://github.com/user-attachments/assets/285540a1-a865-44ce-a51c-5cf6701666b8" />
+
 
 Key focus areas:
 
@@ -76,5 +77,5 @@ Detailed Metrics
 - Snack foods and fruits generate strong sales
 - Tier 3 locations show strong performance
 - Supermarket Type outlets dominate overall revenue
-- <img width="1285" height="717" alt="snapshot of blinkit dashboard" src="https://github.com/user-attachments/assets/c08d45ca-14cb-4711-aad2-da911001bd5e" />
+
 
