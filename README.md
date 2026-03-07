@@ -76,3 +76,5 @@ Detailed Metrics
 - Snack foods and fruits generate strong sales
 - Tier 3 locations show strong performance
 - Supermarket Type outlets dominate overall revenue
+- <img width="1285" height="717" alt="snapshot of blinkit dashboard" src="https://github.com/user-attachments/assets/c08d45ca-14cb-4711-aad2-da911001bd5e" />
+
