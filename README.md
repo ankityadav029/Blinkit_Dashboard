@@ -8,6 +8,7 @@ The dashboard analyzes sales performance, product categories, outlet types, and 
 🎯 Project Objective
 
 To analyze retail sales data and understand factors affecting product performance and outlet efficiency.
+https://github.com/ankityadav029/Blinkit_Dashboard/blob/main/snapshot%20of%20blinkit%20dashboard.png
 
 Key focus areas:
 
