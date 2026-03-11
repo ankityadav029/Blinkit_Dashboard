@@ -1,11 +1,11 @@
-🛒 Blinkit Sales Analysis Dashboard
+ Blinkit Sales Analysis Dashboard
 
 This project showcases an interactive Blinkit Sales Analysis Dashboard built in Power BI.
 The dashboard analyzes sales performance, product categories, outlet types, and customer ratings to uncover meaningful business insights.
 
 ---
 
-🎯 Project Objective
+ Project Objective
 
 To analyze retail sales data and understand factors affecting product performance and outlet efficiency
 
@@ -17,13 +17,13 @@ Key focus areas:
 - Outlet size and location impact
 - Customer ratings and item visibility
 
-📊 Dashboard Preview
+ Dashboard Preview
 <img width="1285" height="717" alt="snapshot of blinkit dashboard" src="https://github.com/user-attachments/assets/285540a1-a865-44ce-a51c-5cf6701666b8" />
 
 
 ---
 
-🧹 Data Preparation
+ Data Preparation
 
 The dataset was cleaned and structured before building the dashboard:
 
@@ -34,7 +34,7 @@ The dataset was cleaned and structured before building the dashboard:
 
 ---
 
-📈 Key Dashboard Features
+ Key Dashboard Features
 
 KPI Metrics
 
@@ -64,7 +64,7 @@ Detailed Metrics
 
 ---
 
-🛠 Tools Used
+ Tools Used
 
 - Power BI
 - Data Cleaning
@@ -73,7 +73,7 @@ Detailed Metrics
 
 ---
 
-💡 Key Insights
+ Key Insights
 
 - Medium sized outlets contribute the highest sales share
 - Snack foods and fruits generate strong sales
